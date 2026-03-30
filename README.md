@@ -1,2 +1,16 @@
-# IPO-Prediction-using-Machine-Learning
-A full-stack project designed to analyze, track, and visualize Initial Public Offerings (IPOs) using real-time and historical financial data. This platform helps users make informed investment decisions by providing key insights such as subscription data, listing gains, company fundamentals, and performance trends.
+# IPO Data Analysis & Prediction
+
+This project analyzes IPO performance using historical data.
+
+## Features
+- Data cleaning using Pandas
+- IPO listing gain analysis
+- Basic prediction logic
+
+## Tech Used
+- Python
+- Pandas
+- NumPy
+
+## Goal
+To understand IPO trends and generate insights from real-world financial data.
